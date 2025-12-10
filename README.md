@@ -1,5 +1,5 @@
 
-<!--
+
 # Hi, I'm Ramani Narasimha 👋  
 
 ## 🎯 Aspiring Data Analyst  
@@ -23,4 +23,4 @@ Check it here: https://github.com/Ramani-Narasimha/Customer-Segmentation-Analysi
 📧 thunuguntlaramani@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/ramani-narasimha-b44524245
 
--->
+
