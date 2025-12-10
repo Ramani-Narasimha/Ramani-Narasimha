@@ -1,16 +1,26 @@
-## Hi there 👋
 
 <!--
-**Ramani-Narasimha/Ramani-Narasimha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ramani Narasimha 👋  
 
-Here are some ideas to get you started:
+## 🎯 Aspiring Data Analyst  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Skilled in:  
+- Python (Pandas, NumPy)  
+- SQL (MySQL)  
+- Power BI (Dashboards, DAX, Data Modeling)  
+- Excel (Pivot Tables, Formulas)  
+
+📊 Passionate about turning raw data into meaningful insights.
+
+## 🚀 Projects  
+🔹 Customer Segmentation Analysis for Retail Store  
+👉 Built full pipeline from data generation ➝ cleaning ➝ clustering ➝ dashboard  
+👉 Validated results using SQL  
+
+Check it here: https://github.com/Ramani-Narasimha/Customer-Segmentation-Analysis-For-A-Retail-Store.git
+
+## 📫 How to reach me  
+📧 thunuguntlaramani@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/ramani-narasimha-b44524245
+
 -->
