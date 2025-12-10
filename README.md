@@ -3,7 +3,7 @@
 # Hi, I'm Ramani Narasimha 👋  
 
 ## 🎯 Aspiring Data Analyst  
-
+ 
 💻 Skilled in:  
 - Python (Pandas, NumPy)  
 - SQL (MySQL)  
