@@ -19,6 +19,12 @@
 
 Check it here: https://github.com/Ramani-Narasimha/Customer-Segmentation-Analysis-For-A-Retail-Store.git
 
+🔹 End to End Retail Sales Analysis
+ - I built an end-to-end retail sales Power BI dashboard where I created synthetic data, cleaned and modeled it using a star schema, built DAX measures, designed interactive dashboards, and delivered actionable business insights.
+ 
+Check it here: https://github.com/Ramani-Narasimha/End-to-End-Retail-Sales-Analysis.git
+
+
 ## 📫 How to reach me  
 📧 thunuguntlaramani@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/ramani-narasimha-b44524245
