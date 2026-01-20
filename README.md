@@ -24,6 +24,10 @@ Check it here: https://github.com/Ramani-Narasimha/Customer-Segmentation-Analysi
  
 Check it here: https://github.com/Ramani-Narasimha/End-to-End-Retail-Sales-Analysis.git
 
+🔹Employee Performance & HR Analytics – SQL
+- SQL project for employee performance and HR analytics covering joins, aggregations, subqueries, case statements, and window functions.
+
+Check it here: https://github.com/Ramani-Narasimha/Employee-Performance-Hr-Analytics.git
 
 ## 📫 How to reach me  
 📧 thunuguntlaramani@gmail.com  
