@@ -14,8 +14,8 @@
 
 ## 🚀 Projects  
 🔹 Customer Segmentation Analysis for Retail Store  
-👉 Built full pipeline from data generation ➝ cleaning ➝ clustering ➝ dashboard  
-👉 Validated results using SQL  
+- Built full pipeline from data generation ➝ cleaning ➝ clustering ➝ dashboard  
+- Validated results using SQL  
 
 Check it here: https://github.com/Ramani-Narasimha/Customer-Segmentation-Analysis-For-A-Retail-Store.git
 
